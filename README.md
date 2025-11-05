@@ -4,6 +4,6 @@ References:
 ---------
 Windows layer and GDI: <https://croakingkero.com/tutorials/drawing_pixels_win32_gdi/>
 
-Tests:
+Some rendered stuff:
 ---------
-![](https://github.com/esamyllyla/winapiGDI/blob/main/cube.gif?raw=true)
+![](https://github.com/esamyllyla/winapiGDI/blob/main/cube2.gif?raw=true)
